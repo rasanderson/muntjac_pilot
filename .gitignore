@@ -39,3 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 C4/*
+*.csv
